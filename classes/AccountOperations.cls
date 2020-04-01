@@ -20,7 +20,7 @@ public class AccountOperations {
         return a;
     }
     public static Account setDefaultPhone(Account a) {//DEV 1
-        a.Phone='611111111'; // DEV 1 updates
+        a.Phone='6264006281'; // INLINE updates
         return a;
     }
     public static Account setDefaultURL(Account a) { //DEV 1
